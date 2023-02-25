@@ -12,6 +12,6 @@
 
 [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 
-[징검다리 건너기](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=python3&page=1&partIds=17931)
+[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 
 [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)
