@@ -1,6 +1,6 @@
 @echo off
-git pull origin master
+git pull origin junho
 git add .
 git commit -m '%date%-commit'
-git push origin master
+git push origin junho
 timeout 3
