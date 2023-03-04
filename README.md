@@ -15,3 +15,11 @@
 [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 
 [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)
+
+## 31주차
+
+[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)
+
+[동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)
+
+[풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)
