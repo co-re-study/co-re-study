@@ -20,6 +20,6 @@
 
 [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)
 
-[동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)
-
 [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)
+
+[동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)
