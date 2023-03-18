@@ -22,7 +22,7 @@ S1 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
 
 ## 230318
 
-S1 1389번 [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
+~~S1 1389번 [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)~~
 
 S1 1697번 [숨박꼭질](https://www.acmicpc.net/problem/1694)
 
@@ -33,3 +33,7 @@ S1 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
 ### 특이사항
 
 ---
+
+한문제 푸는 시간이 점점 오래 걸리고 있다
+
+반복문의 범위를 정할 때 인풋 값이 어떤 것이 었는지 잘 구분해서 정하자 
