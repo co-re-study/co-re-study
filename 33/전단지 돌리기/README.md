@@ -1,1 +1,1 @@
-### [전단지 돌리기](https://www.acmicpc.net/problem/19542)
+https://www.acmicpc.net/problem/19542
