@@ -7,3 +7,4 @@
 |31|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) / [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) / [동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)|
 |32|[자두나무](https://www.acmicpc.net/problem/2240) / [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) / [온풍기 안녕!](https://www.acmicpc.net/problem/23289)|
 |33|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) / [전단지 돌리기](https://www.acmicpc.net/problem/19542) / [큐빙](https://www.acmicpc.net/problem/5373)|
+|34|[회사 문화 1](https://www.acmicpc.net/problem/14267) / [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) / [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)|
