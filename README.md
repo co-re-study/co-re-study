@@ -44,6 +44,8 @@ S1 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
 
 ~~S1 2667 [단지번호붙이기](https://www.acmicpc.net/problem/2667)~~
 
-S1 5525 [IOIOI](https://www.acmicpc.net/problem/5525)
+~~S1 5525 [IOIOI](https://www.acmicpc.net/problem/5525)~~
 
-S1 6064 [카잉 달력](https://www.acmicpc.net/problem/6604)
+~~S1 6064 [카잉 달력](https://www.acmicpc.net/problem/6604)~~
+
+---
