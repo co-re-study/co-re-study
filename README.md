@@ -14,6 +14,8 @@ S1 1931번 [회의실 배정](https://www.acmicpc.net/problem/1931)
 
 S1 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
 
+
+
 ### 특이사항
 
 - ROS2 공부로 인해 못풀었음 못 푼 문제 다음주로 이월
@@ -30,11 +32,13 @@ S1 1931번 [회의실 배정](https://www.acmicpc.net/problem/1931)
 
 S1 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
 
+
+
 ### 특이사항
 
-한문제 푸는 시간이 점점 오래 걸리고 있다
+- 한 문제 푸는 시간이 점점 오래 걸리고 있다
 
-반복문의 범위를 정할 때 인풋 값이 어떤 것이 었는지 잘 구분해서 정하자
+- 반복문의 범위를 정할 때 인풋 값이 어떤 것이 었는지 잘 구분해서 정하자
 
 ---
 
@@ -48,4 +52,22 @@ S1 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
 
 ~~S1 6064 [카잉 달력](https://www.acmicpc.net/problem/6604)~~
 
+
+
+### 특이사항
+
+- 오랜만에 사방 탐색 재미있었다
+
 ---
+
+### 230401
+
+S1 1931 [회의실 배정](https://www.acmicpc.net/problem/1931)
+
+S1 1992 [쿼드트리](https://www.acmicpc.net/problem/1992)
+
+S1 11286 [절댓값 힙](https://www.acmicpc.net/problem/11286)
+
+S1 11403 [경로 찾기](https://www.acmicpc.net/problem/11403)
+
+### 특이사항
