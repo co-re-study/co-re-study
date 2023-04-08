@@ -1,11 +1,12 @@
 # 코리스터디
 
-|주차|문제|
-|--|--|
-|29|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) / [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) / [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)|
-|30|[빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) / [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) / [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)|
-|31|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) / [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) / [동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)|
-|32|[자두나무](https://www.acmicpc.net/problem/2240) / [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) / [온풍기 안녕!](https://www.acmicpc.net/problem/23289)|
-|33|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) / [전단지 돌리기](https://www.acmicpc.net/problem/19542) / [큐빙](https://www.acmicpc.net/problem/5373)|
-|34|[회사 문화 1](https://www.acmicpc.net/problem/14267) / [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) / [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)|
-|35|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) / [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893)|
+| 주차  | 문제                                                                                                                                                                                                                                                                                |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29  | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) / [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) / [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)                                              |
+| 30  | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) / [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) / [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)                                         |
+| 31  | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) / [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) / [동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)                                                  |
+| 32  | [자두나무](https://www.acmicpc.net/problem/2240) / [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) / [온풍기 안녕!](https://www.acmicpc.net/problem/23289)                                                                                                                            |
+| 33  | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) / [전단지 돌리기](https://www.acmicpc.net/problem/19542) / [큐빙](https://www.acmicpc.net/problem/5373)                                                                                                        |
+| 34  | [회사 문화 1](https://www.acmicpc.net/problem/14267) / [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) / [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)                                                                    |
+| 35  | [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) / [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893)                                                                                                                          |
+| 36  | [나무자르기](https://www.acmicpc.net/problem/2805) / [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) / [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) / [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
