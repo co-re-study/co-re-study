@@ -14,3 +14,4 @@
 | 38  | [표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) / [치킨 먹고 싶다](https://www.acmicpc.net/problem/13199) / [촌수계산](https://www.acmicpc.net/problem/2644) / [내일로 여행](https://www.acmicpc.net/problem/13168) |
 | 39  | [트리 트리오 중간값](https://school.programmers.co.kr/learn/courses/30/lessons/68937) / [적의 적](https://www.acmicpc.net/problem/12893) / [튀김 소보루](https://www.acmicpc.net/problem/12842) / [파일 합치기](https://www.acmicpc.net/problem/11066) |
 | 40  | [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) / [마인크래프트](https://www.acmicpc.net/problem/18111) / [사이클 게임](https://www.acmicpc.net/problem/20040) / [극장 좌석](https://www.acmicpc.net/problem/2302) |
+| 41  | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304) / [문자열 교환](https://www.acmicpc.net/problem/1522) / [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) / [봄버맨](https://www.acmicpc.net/problem/16918) |
