@@ -9,7 +9,7 @@ def solution(queue1, queue2):
     queue1_sum = sum(queue1)
     queue2_sum = sum(queue2)
     total = queue1_sum + queue2_sum
-    stop = (len(queue1)) * 3
+    stop = (len(queue1)+len(queue2)) * 2
 
     for i1 in range(len(queue1)):
         total += queue1[i1]
