@@ -1,1 +1,1 @@
-https://school.programmers.cokr./learn/courses/30/lessons/72411
+https://school.programmers.co.kr/learn/courses/30/lessons/72411
