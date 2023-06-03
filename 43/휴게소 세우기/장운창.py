@@ -1,35 +1,40 @@
-N = int(input())
-board = tuple(tuple(map(int,tuple(input()))) for _ in range(N))
-def dfs(Sx, Ex, Sy, Ey):
-    if Ex-Sx > 2:
-        midx = (Sx+Ex)//2
-        midy = (Sy+Ey)//2
-        a = dfs(Sx, midx, Sy, midy)
-        b = dfs(midx, Ex, Sy, midy)
-        c = dfs(Sx, midx, midy, Ey)
-        d = dfs(midx, Ex, midy, Ey)
-        target = a+b+c+d
-        if len(target) == 4 and target.count('1') == 4:
-            return '1'
-        elif len(target) == 4 and target.count('0') == 4:
-            return '0'
-        else:
-            return '('+a+b+c+d+')'
-    elif Ex-Sx < 2:
-        return str(board[Sx][Sy])
-    else:
-        cnt = 0
-        shape = '('
-        for i in range(Sy, Ey):
-            for j in range(Sx, Ex):
-                if board[i][j]:
-                    cnt += 1
-                    shape += '1'
+N, M, L = map(int,input().split())
+if N:
+    line = sorted(list(map(int,input().split()))) + [L]
+else:
+    line = [L]
+start = 0
+end = L
+val = 0
+while end-start>1:
+    mid = (start+end)//2
+    prev = 0
+    cnt = M
+    for i in line:
+        target = i-prev
+        if target > mid:
+            dival = 2
+            worked = False
+            while cnt >= dival-1:
+                if target%dival:
+                    if target//dival+1 <= mid:
+                        worked = True
+                        cnt -= dival-1
+                        break
                 else:
-                    shape += '0'
-        if cnt == 4 or cnt == 0:
-            return '1' if cnt else '0'
-        else:
-            return shape + ')'
-print(dfs(0, N, 0, N))
-
+                    if target//dival <= mid:
+                        worked = True
+                        cnt -= dival-1
+                        break
+                dival += 1
+            if not worked:
+                break
+        prev = i
+    else:
+        # 통과
+        end = mid
+        val = end
+        continue
+    # 안통과
+    start = mid
+print(val)
