@@ -16,7 +16,6 @@ def solution(info, query):
         q = q.replace('and', '').replace('-', '').split()
         target = infos[''.join(q[:-1])]
         s, e = 0, len(target)
-        print(target)
         while s < e:
             m = (s+e)//2
             if target[m] < int(q[-1]):
