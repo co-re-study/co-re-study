@@ -15,7 +15,7 @@ for i in range(1 << s):
     for j in range(s):
         if i & (1 << j):
             skill_subset.add(skill_list[j])
-    if len(skill_subset) == n:
+    if len(skill_subset) <= n:
         count = 0
         for quest in quest_list:
             if len(skill_subset & quest) == k:
