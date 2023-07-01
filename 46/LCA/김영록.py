@@ -11,6 +11,7 @@ def dfs(x, d):
         dfs(child, d+1)
 
 
+sys.setrecursionlimit(10**7)
 input = sys.stdin.readline
 N = int(input())
 routes = [[] for _ in range(N+1)]
@@ -29,7 +30,8 @@ for i in range(1, 17):
 M = int(input())
 for _ in range(M):
     a, b = map(int, input().split())
-    a, b = min(a, b), max(a, b)
+    if depth[a] > depth[b]:
+        a, b = b, a
     for i in range(16, -1, -1):
         if depth[b] - depth[a] >= 2**i:
             b = parent[b][i]
@@ -43,6 +45,3 @@ for _ in range(M):
             b = parent[b][i]
             # 조상 찾아서 올라가는 과정
     print(parent[a][0])
-'''
-틀렸습니다
-'''
