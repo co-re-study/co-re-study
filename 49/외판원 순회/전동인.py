@@ -8,7 +8,7 @@ def TSP(start, visited):
     if visited == (1 << n) - 1:  # 모든 경유지를 방문 했다면, 돌아가는 비용을 리턴
         return dist[start][0] if dist[start][0] > 0 else 1000000*n
 
-    if dp[start][visited] != 0:  # start에서 visited 까지의 최소값이 존재한다면, 해당 비용을 리턴
+    if dp[start][visited] != 0:  # 해당 값이 이미 존재한다면, 기존 값을 리턴
         return dp[start][visited]
 
     dp[start][visited] = 1000000*n  # 해당 경우에 대해 처음 계산하는 경우, 최대값을 할당
@@ -22,4 +22,4 @@ def TSP(start, visited):
     return dp[start][visited]
 
 
-print(TSP(0, 1))
+print(TSP(0, 1))  # 0번 도시에서 출발해서 1의 비지티드를 가지고 방문하지 않은 도시들을 모두 방문했을 때 최소값
