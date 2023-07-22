@@ -24,3 +24,4 @@
 | 48   | [반음](https://www.acmicpc.net/problem/2034) / [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) / [숫자 연결하기](https://www.acmicpc.net/problem/1323) / [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |
 | 49   | [북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918) / [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) / [외판원 순회](https://www.acmicpc.net/problem/2098) / [우주 탐사선](https://www.acmicpc.net/problem/17182) |
 | 50   | [원숭이 키우기](https://www.acmicpc.net/problem/1423) / [배](https://www.acmicpc.net/problem/2853) / [카드게임](https://www.acmicpc.net/problem/10835) / [와드](https://www.acmicpc.net/problem/23747) / [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) |
+| 51   | [원판 돌리기](https://www.acmicpc.net/problem/17822) / [회문](https://www.acmicpc.net/problem/17609) / [할로윈의 양아치](https://www.acmicpc.net/problem/20303) / [행성 터널](https://www.acmicpc.net/problem/2887) |
