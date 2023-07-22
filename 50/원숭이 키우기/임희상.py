@@ -16,22 +16,22 @@ for _ in range(D):
     new_dp = []
 
     for i in range(N):
-        last = -1
-        target = -float('INF')
+        max_idx = -1
+        max_val = -float('INF')
 
         for j in range(N):
-            if (i==N-1 or dp[j][0][i]) and target < dp[j][1] + diff[i]:
-                last = j
-                target = dp[j][1] + diff[i]
+            if (i==N-1 or dp[j][0][i]) and max_val < dp[j][1] + diff[i]:
+                max_idx = j
+                max_val = dp[j][1] + diff[i]
         
-        update = dp[last][0][:]
+        update = dp[max_idx][0][:]
 
-        if i != N-1 and last != -1:
+        if i != N-1 and max_idx != -1:
             update[i] -= 1
             update[i+1] += 1
-            new_dp.append([update, dp[last][1]+diff[i]])
+            new_dp.append([update, dp[max_idx][1]+diff[i]])
         else:
-            new_dp.append([update, dp[last][1]])
+            new_dp.append([update, dp[max_idx][1]])
         print(new_dp)
     dp = new_dp
     print(dp)
