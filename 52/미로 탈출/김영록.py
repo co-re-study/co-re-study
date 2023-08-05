@@ -31,26 +31,3 @@ while queue:
                 queue.append([x1, y1, 1])
 else:
     print(-1)
-
-
-def bfs():
-    queue = deque()
-    queue.append((Hx, Hy, 0))
-    visited[Hx][Hy][0] = 0
-    while queue:
-        x, y, z = queue.popleft()
-        if x == Ex and y == Ey:
-            return visited[x][y][z]
-        for i in range(4):
-            nx, ny, nz = x+dx[i], y+dy[i], z
-            if nx < 0 or nx >= N or ny < 0 or ny >= M:
-                continue
-            if arr[nx][ny]:
-                if nz:
-                    continue
-                else:
-                    nz = 1
-            if visited[nx][ny][nz] == -1:
-                visited[nx][ny][nz] = visited[x][y][z]+1
-                queue.append((nx, ny, nz))
-    return -1
