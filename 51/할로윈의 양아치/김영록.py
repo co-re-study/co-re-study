@@ -16,6 +16,8 @@
 #     a, b = map(int, input().split())
 #     s, e = min(find_root(a), find_root(b)), max(find_root(a), find_root(b))
 #     roots[e] = s
+# for i in range(1, N+1):
+#     find_root(i)
 # groups_dict = defaultdict(lambda: [0, 0])
 # for i in range(1, N+1):
 #     groups_dict[roots[i]][0] += 1
@@ -23,15 +25,15 @@
 # groups_info = [i for i in groups_dict.values()]
 # groups_info.sort()
 # l = len(groups_info)
-# dp = [[0]*K for _ in range(l+1)]
+# dp = [[0]*(K+1) for _ in range(l+1)]
 # for i in range(1, l+1):
 #     weight, value = groups_info[i-1]
-#     for j in range(1, K):
+#     for j in range(1, K+1):
 #         if j <= weight:
 #             dp[i][j] = dp[i-1][j]
 #         else:
 #             dp[i][j] = max(dp[i-1][j], dp[i-1][j-weight] + value)
-# print(dp[l-1][K-1])
+# print(dp[l-1][K])
 
 
 import sys
