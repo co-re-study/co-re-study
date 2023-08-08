@@ -24,6 +24,7 @@ for _ in range(N - 1):
     adj_list[n1].append((n2, cost))
     adj_list[n2].append((n1, cost))
 
+# 트리 만들기
 parent = [[(0, 0, 0) for _ in range(N + 1)] for _ in range(18)]
 stack = [(1, 0)]
 visited = [0] * (N + 1)
