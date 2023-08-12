@@ -27,3 +27,4 @@
 | 51   | [원판 돌리기](https://www.acmicpc.net/problem/17822) / [회문](https://www.acmicpc.net/problem/17609) / [할로윈의 양아치](https://www.acmicpc.net/problem/20303) / [행성 터널](https://www.acmicpc.net/problem/2887) |
 | 52   | [미로 탈출](https://www.acmicpc.net/problem/14923) / [감시](https://www.acmicpc.net/problem/15683) / [탈옥](https://www.acmicpc.net/problem/9376) / [지구 온난화](https://www.acmicpc.net/problem/5212) |
 | 53   | [도로 네트워크](https://www.acmicpc.net/problem/3176) / [보석 도둑](https://www.acmicpc.net/problem/1202) / [N포커](https://www.acmicpc.net/problem/16565) |
+| 54   | [임계경로](https://www.acmicpc.net/problem/1948) / [List of Unique Numbers](https://www.acmicpc.net/problem/13144) / [어드벤처 게임](https://www.acmicpc.net/problem/2310) / [ACM Craft](https://www.acmicpc.net/problem/1005) |
