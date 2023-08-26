@@ -29,3 +29,4 @@
 | 53   | [도로 네트워크](https://www.acmicpc.net/problem/3176) / [보석 도둑](https://www.acmicpc.net/problem/1202) / [N포커](https://www.acmicpc.net/problem/16565) |
 | 54   | [임계경로](https://www.acmicpc.net/problem/1948) / [List of Unique Numbers](https://www.acmicpc.net/problem/13144) / [어드벤처 게임](https://www.acmicpc.net/problem/2310) / [ACM Craft](https://www.acmicpc.net/problem/1005) |
 | 55   | [여왕벌](https://www.acmicpc.net/problem/10836) / [리그전 오브 레전드](https://www.acmicpc.net/problem/23327) / [계단 수](https://www.acmicpc.net/problem/1562) / [타임머신](https://www.acmicpc.net/problem/11657) / [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288) |
+| 56   | [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) / [결! 합!](https://www.acmicpc.net/problem/16722) / [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) / [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |
