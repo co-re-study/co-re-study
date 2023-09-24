@@ -20,4 +20,4 @@ while stack:
     for child in children[current]:
         stack.append((child, depth+1))
 
-print(min(odds, evens) + abs(odds-evens))
+print(max(odds, evens))
