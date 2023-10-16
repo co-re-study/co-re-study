@@ -34,5 +34,4 @@
 | 58  | [좋은수열](https://www.acmicpc.net/problem/2661) / [금광](https://www.acmicpc.net/problem/27915) / [문자열 폭발](https://www.acmicpc.net/problem/9935) / [모노미노도미노2](https://www.acmicpc.net/problem/20061)                                                                                                                               |
 | 59  | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) / [본대 산책2](https://www.acmicpc.net/problem/12850) |
 | 60  | [열쇠](https://www.acmicpc.net/problem/9328) / [BFS 스페셜 저지](https://www.acmicpc.net/problem/16940) |
-
 | 61  | [철로](https://www.acmicpc.net/problem/13334) / [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
