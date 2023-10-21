@@ -35,3 +35,4 @@
 | 59  | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) / [본대 산책2](https://www.acmicpc.net/problem/12850) |
 | 60  | [열쇠](https://www.acmicpc.net/problem/9328) / [BFS 스페셜 저지](https://www.acmicpc.net/problem/16940) |
 | 61  | [철로](https://www.acmicpc.net/problem/13334) / [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
+| 62  | [술래 잡기](https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/description?page=1&pageSize=20) / [불 끄기](https://www.acmicpc.net/problem/14939) |
