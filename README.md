@@ -36,4 +36,4 @@
 | 60  | [열쇠](https://www.acmicpc.net/problem/9328) / [BFS 스페셜 저지](https://www.acmicpc.net/problem/16940) |
 | 61  | [철로](https://www.acmicpc.net/problem/13334) / [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
 | 62  | [술래 잡기](https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/description?page=1&pageSize=20) / [불 끄기](https://www.acmicpc.net/problem/14939) |
-| 63  | [산타의 선물 공장](https://www.codetree.ai/training-field/frequent-problems/problems/santa-gift-factory/description?page=1&pageSize=20) / [](https://school.programmers.co.kr/learn/courses/30/lessons/72415) |
+| 63  | [산타의 선물 공장](https://www.codetree.ai/training-field/frequent-problems/problems/santa-gift-factory/description?page=1&pageSize=20) / [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)  |
