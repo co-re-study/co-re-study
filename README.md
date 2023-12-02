@@ -39,4 +39,4 @@
 | 63  | [산타의 선물 공장](https://www.codetree.ai/training-field/frequent-problems/problems/santa-gift-factory/description?page=1&pageSize=20) / [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)  |
 | 64  | [구간 곱 구하기](https://www.acmicpc.net/problem/11505) / [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)  |
 | 65  | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) / [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)  |
-| 66  | [텀 프로젝트](https://www.acmicpc.net/problem/9466) / []()  |
+| 66  | [텀 프로젝트](https://www.acmicpc.net/problem/9466) / [우물 안 개구리](https://softeer.ai/practice/6289)  |
